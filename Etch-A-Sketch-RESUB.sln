@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Etch-A-Sketch-RESUB", "Etch-A-Sketch-RESUB.vbproj", "{0E15FF65-972E-42BC-9F0E-A93944AB8E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E15FF65-972E-42BC-9F0E-A93944AB8E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E15FF65-972E-42BC-9F0E-A93944AB8E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E15FF65-972E-42BC-9F0E-A93944AB8E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E15FF65-972E-42BC-9F0E-A93944AB8E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D41E6067-8FB4-42D3-8802-A7350CDF49D2}
+	EndGlobalSection
+EndGlobal
